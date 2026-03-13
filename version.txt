@@ -1,1 +1,1 @@
-Versión 0.1-alpha
+V1.0.0 Stable
