@@ -21,6 +21,3 @@ En esta rama se mantiene contenido orientado a produccion:
 3. Se cargo contenido para `dev`.
 4. Se cargo contenido diferente para `prod`.
 5. Se documento el proceso en este `README.md`.
-
-## Nota para la practica de conflictos
-Esta rama representa un entorno de despliegue y se mantiene separada para simular flujos reales de trabajo en equipo.
