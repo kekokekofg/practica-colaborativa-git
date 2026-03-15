@@ -20,6 +20,3 @@ En esta rama se mantiene contenido orientado al desarrollo:
 3. Se cargo contenido para `dev`.
 4. Se cargo contenido distinto para `prod`.
 5. Se documento el proceso en este `README.md`.
-
-## Nota para la practica de conflictos
-Este repositorio queda preparado para que varios companeros trabajen en paralelo y practiquen manejo de conflictos (`merge conflicts`).
